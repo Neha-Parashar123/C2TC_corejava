@@ -1,0 +1,2 @@
+module type_casting {
+}
